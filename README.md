@@ -6,7 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaikAp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=holi&hide_border=false" height="150" alt="languages graph"  />
 
 </div>
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -34,10 +33,3 @@
   <a href="https://www.linkedin.com/in/kaiksilva/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/KaikAp/KaikAp/output/snake.svg" alt="Snake animation" />
-
-###
