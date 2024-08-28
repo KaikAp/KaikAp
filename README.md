@@ -12,7 +12,7 @@
 
 <div align="left">
   <h2>I code with</h2>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target=”_blank”>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   </a>
   <img width="12" />
