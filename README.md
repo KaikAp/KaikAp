@@ -12,35 +12,35 @@
 
 <div align="left">
   <h2>I code with</h2>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target=”_blank”>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   </a>
   <img width="12" />
-  <a href="https://docs.docker.com">
+  <a href="https://docs.docker.com" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   </a>
   <img width="12" />
-  <a href="https://www.debian.org/index.pt.html">
+  <a href="https://www.debian.org/index.pt.html" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   </a>
   <img width="12" />
-  <a href="https://docs.oracle.com/en/java/">
+  <a href="https://docs.oracle.com/en/java/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   </a>
   <img width="12" />
-  <a href="https://dev.mysql.com/doc/">
+  <a href="https://dev.mysql.com/doc/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   </a>
   <img width="12" />
-  <a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16">
+  <a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
   </a>
   <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   </a>
   <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   </a>
   <img width="12" />
